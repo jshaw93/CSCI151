@@ -1,3 +1,5 @@
 # Pycharm
 .idea/
 venv/
+lib/
+introcs.egg-info/
