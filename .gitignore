@@ -3,3 +3,4 @@
 venv/
 lib/
 introcs.egg-info/
+test.py
